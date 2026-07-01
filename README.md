@@ -40,7 +40,7 @@ python3 flip.py input.jpg output.jpg
 
   | 入力画像(input.jpg) | 出力画像(output.jpg) |
   | --- | --- |
-  | <img width="320" height="234" alt="input" src="https://github.com/user-attachments/assets/c07d023c-bf53-4ef4-89c9-a8276aa779ad" />| <img width="320" height="234" alt="output" src="https://github.com/user-attachments/assets/10af0af7-9c63-4154-a686-eafb780cafde" />|
+  | ![2匹の犬](./input.jpg)| ![反転,2匹の犬](./output.jpg)|
 
 
 
